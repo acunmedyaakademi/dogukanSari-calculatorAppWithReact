@@ -33,7 +33,7 @@ function Head() {
           <p>2</p>
           <p>3</p>
         </div>
-        <button className="btn-tema"><a href="/acikrenk.html"><img src="/public/images/Oval.svg" alt="Oval"/></a></button>
+        <button className="btn-tema"><a href="/acikrenk.html"><img src="/images/Oval.svg" alt="Oval"/></a></button>
       </div>
     </div>
   </div>
